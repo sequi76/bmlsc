@@ -9,4 +9,4 @@ Organizers:
 Ezequiel Álvarez
 Rodrigo Díaz
 Martin Makler
-Pblo Terren
+Pablo Terren
