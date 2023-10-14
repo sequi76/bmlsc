@@ -27,7 +27,7 @@ La clase es en pizarrón con algún ejemplo de scripts funcionando en proyector.
 - Fábrica de cajas: probabilidad que una caja salga fallada, priors y viendo la data X
 - Mezcla d Gaussianas: en proyector, utilizando STAN
 
-### 3) Evaluación de méetodos
+### 3) Evaluación de métodos
 
 - Evaluar proceso
 - Evaluar algoritmo
