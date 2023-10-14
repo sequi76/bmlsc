@@ -22,6 +22,9 @@ La clase es en pizarrón con algún ejemplo de scripts funcionando en proyector.
 - Enunciado de ejemplos 
 - Probabilidad de la probabilidad
 
+## Coffee Break
+
+
 ### 2) Ejemplos concretos
 
 - Fábrica de cajas: probabilidad que una caja salga fallada, priors y viendo la data X
