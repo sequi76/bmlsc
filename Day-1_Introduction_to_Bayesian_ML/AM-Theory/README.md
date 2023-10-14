@@ -9,6 +9,34 @@ La clase es en pizarrón con algún ejemplo de scripts funcionando en proyector.
 ### 0) Reflexiones generales e introducción
 
 - Leyes de la Naturaleza y modelado fenomenológico
+- Ejemplos básicos de modelado y sampleos a partir de PDFs
+- Ejemplos que requieren técnicas más sofisticadas
+- Modelos gráficos
+- Prior knowledge en el modelado
+- Probabilidad y Estadística son objetivas, pero las conclusiones son subjetivas
+
+### 1) Teorema de Bayes y aplicaciones
+
+- Teorema de Bayes
+- Machine Learning en un escenario Bayesiano
+- Enunciado de ejemplos 
+- Probabilidad de la probabilidad
+
+### 2) Ejemplos concretos
+
+- Fábrica de cajas: probabilidad que una caja salga fallada, priors y viendo la data X
+- Mezcla d Gaussianas: en proyector, utilizando STAN
+
+### 3) Evaluación de méetodos
+
+- Evaluar proceso
+- Evaluar algoritmo
+- Evaluar modelo
+- Toy models y data sintética
+- Posterior predictive check: estudiar la probabilidad de la data con el modelo obtenido
+
+
+
 
 
 
