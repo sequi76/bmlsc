@@ -38,7 +38,11 @@ La clase es en pizarrón con algún ejemplo de scripts funcionando en proyector.
 - Toy models y data sintética
 - Posterior predictive check: estudiar la probabilidad de la data con el modelo obtenido
 
+### 4) Ejemplo de fantasía
 
+- Enunciado de aplicación Bayesiana realizada
+- Exploración de mapa
+- Discusión de resultados
 
 
 
