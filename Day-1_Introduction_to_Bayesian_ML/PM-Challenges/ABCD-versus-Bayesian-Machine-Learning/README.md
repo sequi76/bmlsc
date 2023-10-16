@@ -20,14 +20,14 @@ Obs2 ~ N(20,3)
 Y para la señal tenemos:
 
 Obs1 ~ N(15,2)<br>
-Obs2 ~ N(24,1)
+Obs2 ~ N(18,1)
 
 De este modo, podemos definir las regiones del método ABCD como
 
-A : Obs1 < 11 & Obs2 < 22<br>
-B : Obs1 > 11 & Obs2 < 22<br>
-C : Obs1 < 11 & Obs2 > 22<br>
-D : Obs1 > 11 & Obs2 > 22  (en esta región es la única que en principio tiene señal)
+A : Obs1 < 11 & Obs2 > 20<br>
+B : Obs1 > 11 & Obs2 > 20<br>
+C : Obs1 < 11 & Obs2 < 20<br>
+D : Obs1 > 11 & Obs2 < 22  (en esta región es la única que en principio tiene señal)
 
 Utilizando el método ABCD queda que la cantidad de señal en la región D sería:
 
