@@ -1,6 +1,5 @@
 ## Mejora y generalización del método ABCD
 
-### (Buena tesis d elicenciatura y eventual paper)
 
 El método ABCD es un método experimental para estimar background en una región del espacio de parámetros (usualmente la región "D") a partir de los datos en las regiones restantes ("A", "B"y "C").  Se puede ller más sobre este método en los siguientes links:
 
