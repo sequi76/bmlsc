@@ -15,19 +15,19 @@ Analicemos un ejemplo concreto y simple para comenzar.
 
 Supongamos un experimento que tiene 2 observables independientes, Obs1 y Obs2. O sea, el problema tiene dimensión 2.  Supongamos que en lo que uno observa hay un background y una señal, y que nosotros queremos identificar cuánto hay de señal.    Ambos observables tienen como output un número real. y para ser bien concretos, supongamos que para el background tenemos:
 
-Obs1 ~ N(10,5)   (Una distribución normal centrada en 10 y con desviación estándar igual a 5)
+Obs1 ~ N(10,5)   (Una distribución normal centrada en 10 y con desviación estándar igual a 5) <br>
 Obs2 ~ N(20,3)
 
 Y para la señal tenemos:
 
-Obs1 ~ N(15,2)
+Obs1 ~ N(15,2)<br>
 Obs2 ~ N(24,1)
 
 De este modo, podemos definir las regiones del método ABCD como
 
-A : Obs1 < 11 & Obs2 < 22
-B : Obs1 > 11 & Obs2 < 22
-C : Obs1 < 11 & Obs2 > 22
+A : Obs1 < 11 & Obs2 < 22<br>
+B : Obs1 > 11 & Obs2 < 22<br>
+C : Obs1 < 11 & Obs2 > 22<br>
 D : Obs1 > 11 & Obs2 > 22  (en esta región es la única que en principio tiene señal)
 
 Utilizando el método ABCD queda que la cantidad de señal en la región D sería:
