@@ -4,5 +4,7 @@
 
 - Averigue cuándo fue inventado Principal Component Analysis
 
+- Utilizando los datos del censo nacional hicimos PCA y elegimos la combinación que más varianza tiene.  O sea la que más nos diferencia a los argentinos.... Adivina cuál es?  Vea los resultados en https://icas.unsam.edu.ar/ai/.
+
 - sigamos pensando problemas cortos...
 
